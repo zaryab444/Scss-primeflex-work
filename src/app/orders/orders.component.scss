@@ -1,0 +1,6 @@
+@import "src/styles/variable.scss";
+@import "src/styles/mixin.scss";
+
+h3{
+    @include textStyle 
+}

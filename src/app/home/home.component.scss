@@ -1,0 +1,24 @@
+@import "src/styles/variable.scss";
+
+.dashboard-card{
+    .p-card-body{
+        border-color: $secondary-32;
+        border-left-width: 4px;
+        border-left-style: solid;
+    }
+    .p-card-title{
+        color: $primary-17
+    }
+    .p-card-content{
+        .card-heading{
+            padding-bottom: 1.25rem !important;
+        }
+       
+    }
+   .heading{
+    margin-left: 0.5rem;
+   }  
+}
+
+
+
